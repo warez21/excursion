@@ -1,0 +1,31 @@
+body {
+	background-color: black;
+	text-align: center;
+	font-family: Verdana, sans-serif;
+}
+
+h1{
+  font-family: Verdana;
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+  text-align: center;
+
+}
+.linkvalue {
+ color: Aquamarine;
+ font-size: 18px;
+ 
+}
+#travelguide{
+	color: white;
+	font-family: Verdana;
+	font-weight: 300;
+	font-size: 42px;
+}
+
+#travelguide p{
+   color: gray;
+   font-size: 21px;
+
+}
